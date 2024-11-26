@@ -44,7 +44,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/entzueckender-delphin-cartoon_74769-37.avif",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
