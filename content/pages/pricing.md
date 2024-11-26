@@ -27,11 +27,18 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Ausgepowert nach 40 langen Jahren brauchten die Floppers eine kleine Pause
+      von der großen Bühne. Manuel war schon dem Burn Out sehr Nahe, merkte
+      aber, dass es ohne Musik einfach nicht ging. Da kam ihm DIE IDEE: Zurück
+      zu den Wurzeln und die Kerwe in Wingerde wieder zu dem machen was sie
+      früher mal war: Dem größten Volksfest der Region. Jonas und Jonas waren
+      direkt Feuer und Flamme und es ging direkt in die Planung. Schnell stellte
+      sich heraus, dass für den Auftritt nur der legendäre Kerwemontag in Frage
+      kommen kann. Früher spielten dort alles was Rang und Namen hatte wie
+      Modern Talking, die Ärzte oder die Flippers. Heutzutage ist dem leider
+      nicht mehr der Fall und so machten sich die Floppers auf, dem Kerwemontag
+      wieder zu alter Größe zu verhelfen.
     actions: []
     media:
       type: VideoBlock
