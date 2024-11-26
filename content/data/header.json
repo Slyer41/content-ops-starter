@@ -10,21 +10,21 @@
             "style": "secondary"
         },
         {
-            "label": "Auftritte",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Karriere",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Galerie",
+            "altText": "Galerie",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         },
         {
             "label": "Über uns",
