@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Karriere
 slug: pricing
 sections:
   - title:
