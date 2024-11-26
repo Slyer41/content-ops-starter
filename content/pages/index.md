@@ -29,9 +29,6 @@ sections:
           - pr-16
   - subtitle: Danke an unsere Unterstützer
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
