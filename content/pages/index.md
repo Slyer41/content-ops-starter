@@ -29,9 +29,6 @@ sections:
           - pr-16
   - subtitle: Danke an unsere Unterstützer
     images:
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/9f90e036-cba9-4ff1-bc18-791a2eeb31bc.jpeg
         altText: Telus logo
         type: ImageBlock
