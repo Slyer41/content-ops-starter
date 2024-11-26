@@ -61,10 +61,11 @@ sections:
         type: FeaturedItem
       - title: Bodyguard
         subtitle: Physical
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Beschützen der Floppers vor, während und nach den Auftritt
+
+          *   Mit Leib und Seele bei der Sache sein
+
         colors: bg-neutral-fg-dark
         styles:
           self:
