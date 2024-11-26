@@ -80,7 +80,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Bewirb dich jetzt
         url: /
         icon: arrowRight
         iconPosition: right
