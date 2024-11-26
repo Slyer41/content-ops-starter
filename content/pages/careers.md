@@ -29,20 +29,23 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Wir suchen dich
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Account Manager
+        subtitle: Management
+        text: |+
+          *   Verwaltung Social Media Accounts
+
+          *   Interaktion mit Fans
+
+          *   Veraltung von Auftrittsanfragen
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -56,12 +59,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Bodyguard
+        subtitle: Physical
+        text: |+
+          *   Beschützen der Floppers vor, während und nach den Auftritt
+
+          *   Mit Leib und Seele bei der Sache sein
+
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -74,26 +78,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Apply now
+      - label: Bewirb dich jetzt
         url: /
         icon: arrowRight
         iconPosition: right
