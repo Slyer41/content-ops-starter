@@ -21,7 +21,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Nach der Welttour zurück zu den Wurzeln
       color: text-dark
       styles:
         self:
