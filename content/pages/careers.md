@@ -29,7 +29,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Wir suchen dich
       color: text-dark
       styles:
         self:
