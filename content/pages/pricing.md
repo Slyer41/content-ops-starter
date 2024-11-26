@@ -21,7 +21,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Nach der Welttour zurück zu den Wurzeln
+      text: Zurück zu den Anfängen
       color: text-dark
       styles:
         self:
