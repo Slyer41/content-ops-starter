@@ -39,10 +39,13 @@ sections:
     items:
       - title: Account Manager
         subtitle: Management
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Verwaltung Social Media Accounts
+
+          *   Interaktion mit Fans
+
+          *   Veraltung von Auftrittsanfragen
+
         colors: bg-neutral-fg-dark
         styles:
           self:
