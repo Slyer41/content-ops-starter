@@ -10,16 +10,7 @@ sections:
     subtitle: 50 Jahre die Floppers
     text: |
       Das geht an alle Freunde, Fans und Hater
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/Floppers.PNG
       altText: Unblock your team boost your time to production preview
