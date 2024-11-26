@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Manuel Röckel",
+    "role": "Bassist",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/Bild_2024-11-26_104534193.png",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Alle warten darauf, dass er mal wirklich seinen Bass an den Verstärker anschließt\n"
 }
