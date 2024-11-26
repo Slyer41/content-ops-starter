@@ -1,17 +1,17 @@
 {
     "primaryLinks": [
         {
-            "label": "Karriere",
-            "url": "/pricing",
+            "label": "Auftritte",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Auftritte",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Karriere",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
