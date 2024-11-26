@@ -27,7 +27,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Danke an unsere Unterstützer
+  - subtitle: Unsere Sponsoren
     images:
       - url: /images/9f90e036-cba9-4ff1-bc18-791a2eeb31bc.jpeg
         altText: Telus logo
