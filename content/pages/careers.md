@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: Meet the team
+      text: Meet the Band
       color: text-dark
       styles:
         self:
