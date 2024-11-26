@@ -1,15 +1,6 @@
 {
     "primaryLinks": [
         {
-            "label": "Auftritte",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Auftritte",
             "altText": "Blog",
@@ -17,6 +8,15 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
+        },
+        {
+            "label": "Auftritte",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Karriere",
