@@ -51,7 +51,7 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "ml-2"
+                    "ml-0"
                 ]
             }
         }
