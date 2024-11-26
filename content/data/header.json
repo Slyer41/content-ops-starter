@@ -9,15 +9,6 @@
             "type": "Link"
         },
         {
-            "label": "Auftritte",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Button",
             "label": "Get started",
             "altText": "",
@@ -27,6 +18,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Auftritte",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Über uns",
