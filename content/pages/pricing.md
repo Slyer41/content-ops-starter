@@ -21,7 +21,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Zurück zu den Anfängen
+      text: ''
       color: text-dark
       styles:
         self:
