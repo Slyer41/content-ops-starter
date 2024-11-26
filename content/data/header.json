@@ -52,7 +52,7 @@
                 "borderRadius": "medium",
                 "margin": [
                     "ml-0",
-                    "mr-5"
+                    "mr-10"
                 ]
             }
         }
