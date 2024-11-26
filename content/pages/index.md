@@ -41,7 +41,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Bild_2024-11-26_102727195.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
