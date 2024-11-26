@@ -19,7 +19,7 @@
         },
         {
             "type": "Link",
-            "label": "Auftritte",
+            "label": "Galerie",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
