@@ -5,7 +5,7 @@
             "label": "Home",
             "altText": "Blog",
             "url": "/",
-            "icon": "arrowLeft",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary"
         },
