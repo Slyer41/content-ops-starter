@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Die Anfänge
+      text: Homecoming
       color: text-dark
       styles:
         self:
