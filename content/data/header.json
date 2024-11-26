@@ -25,6 +25,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Instagram",
+            "altText": "Instagram",
+            "url": "/https://www.instagram.com/diefloppers_official/",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
