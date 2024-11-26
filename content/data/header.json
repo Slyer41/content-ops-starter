@@ -49,7 +49,7 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium",
+                "borderRadius": "small",
                 "margin": [
                     "ml-0",
                     "mr-10"
