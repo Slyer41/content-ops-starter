@@ -132,7 +132,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Schreib uns
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
