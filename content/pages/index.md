@@ -79,11 +79,15 @@ sections:
           - pr-7
     type: DividerSection
   - subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      Hast du irgendwelche Fragen, Wünsche oder Anforderungen?
+
+      Möchtest du uns für einen Auftritt buchen?
+
+      Oder möchtest einfach mit den echten Floppers schreiben?
+
+      Dann schreib uns hier gerne um mit uns in Kontakt zu kommen
+
     media:
       fields:
         - name: name
