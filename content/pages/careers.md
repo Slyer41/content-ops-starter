@@ -44,7 +44,7 @@ sections:
 
           *   Interaktion mit Fans
 
-          *   Veraltung von Auftrittsanfragen
+          *   Verwaltung von Auftrittsanfragen
 
         colors: bg-neutral-fg-dark
         styles:
