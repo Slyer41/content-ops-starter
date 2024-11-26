@@ -30,7 +30,7 @@
             "type": "Link",
             "label": "Instagram",
             "altText": "Instagram",
-            "url": "/https://www.instagram.com/diefloppers_official/",
+            "url": "https://www.instagram.com/diefloppers_official/",
             "showIcon": true,
             "icon": "instagram",
             "iconPosition": "left",
