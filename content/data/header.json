@@ -10,14 +10,6 @@
             "type": "Link"
         },
         {
-            "label": "Karriere",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Auftritte",
             "altText": "Blog",
@@ -25,6 +17,14 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
+        },
+        {
+            "label": "Karriere",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Über uns",
