@@ -78,7 +78,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: Section with a form subtitle
+  - subtitle: ''
     text: |+
       Hast du irgendwelche Fragen, Wünsche oder Anforderungen?
 
