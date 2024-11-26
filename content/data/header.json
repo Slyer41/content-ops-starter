@@ -1,17 +1,26 @@
 {
     "primaryLinks": [
         {
-            "label": "Karriere",
-            "url": "/pricing",
+            "type": "Link",
+            "label": "Home",
+            "altText": "Blog",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
+            "label": "Auftritte",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Auftritte",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Karriere",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -25,17 +34,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Instagram",
-            "altText": "Instagram",
-            "url": "https://www.instagram.com/diefloppers_official/",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
