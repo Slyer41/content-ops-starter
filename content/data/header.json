@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Auftritte",
+            "label": "Home",
             "altText": "Blog",
             "url": "/",
             "icon": "arrowRight",
