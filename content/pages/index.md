@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Wir Sagen Dankeschön
-      color: text-light
+      color: text-primary
       type: TitleBlock
     subtitle: 50 Jahre die Floppers
     text: |
