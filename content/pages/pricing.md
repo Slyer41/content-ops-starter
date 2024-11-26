@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Homecoming
+      text: 'Die Floppers: Homecoming'
       color: text-dark
       styles:
         self:
