@@ -20,7 +20,7 @@
         {
             "type": "Link",
             "label": "Galerie",
-            "altText": "Blog",
+            "altText": "Galerie",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
