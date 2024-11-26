@@ -1,6 +1,17 @@
 {
     "primaryLinks": [
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/Kontakt",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Karriere",
             "url": "/pricing",
             "icon": "arrowRight",
